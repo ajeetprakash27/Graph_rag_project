@@ -436,7 +436,7 @@ This project is licensed under the **MIT License** - see [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Your Name** - [@YourGitHub](https://github.com/yourusername)
+**Your Name** - [@Ajeet Pandey](https://github.com/ajeetprakash27)
 
 ---
 
@@ -448,7 +448,7 @@ If you found this project useful, please consider giving it a star! ⭐
 
 ## 📞 Support
 
-- 📧 Email: your.email@example.com
+- 📧 Email: imajeetpandey27@gmail.com
 - 💬 Issues: [GitHub Issues](https://github.com/yourusername/graphrag-project/issues)
 - 📖 Discussions: [GitHub Discussions](https://github.com/yourusername/graphrag-project/discussions)
 
